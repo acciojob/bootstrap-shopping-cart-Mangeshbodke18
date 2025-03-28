@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+
+
+.container {
+	display:flex;
+	
+}
+.summary{
+	background-color:#f7fbff;
+	height:100vh;
+	width:30vw;
+	border-top:#5ea4f3;
+	padding:10px;
+	margin:10px;
+	
+}
